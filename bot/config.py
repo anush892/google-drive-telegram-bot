@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1564573888:AAE1P25vi8UGoJA80lwi-xkDWdORf5Z68QE"
+    APP_ID = "2447988"
+    API_HASH = "844fb2982fe8b0015fdb76006f892a21"
+    DATABASE_URL = "postgres://xlpxqxuvzdihqe:4550560ef5f0a8da7575680894f7d8fb700e07090ff0c22eae3890f37b4d6cac@ec2-54-163-47-62.compute-1.amazonaws.com:5432/darur2tg7plaka"
+    SUDO_USERS = "827437632" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "t.me/gdasbot"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
